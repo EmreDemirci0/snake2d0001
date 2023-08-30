@@ -1,2 +1,2 @@
 # Snake2D
-'D snake Game
+2D snake Game
